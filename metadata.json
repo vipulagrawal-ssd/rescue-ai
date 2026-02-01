@@ -1,0 +1,8 @@
+{
+  "name": "RescueAI: Smart Roadside Assistance",
+  "description": "A natural language-driven roadside assistance app that uses Gemini AI to detect issues and dispatch help instantly.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
